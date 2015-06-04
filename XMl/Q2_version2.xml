@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plats>
+<plat>
+<categorie></categorie>
+<nom>pates bolognaises</nom>
+<description></description>
+<prix>9</prix>
+</plat>
+<plat>
+<categorie></categorie>
+<nom>carbonara</nom>
+<description></description>
+<prix>9</prix>
+
+</plat>
+</plats>
